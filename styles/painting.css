@@ -76,6 +76,11 @@
         nav a.active,footer a.active{
             text-decoration: underline;text-underline-offset: 5px;
         }
+        nav a:hover,footer a:hover{
+            text-decoration: underline;text-underline-offset: 5px;
+        }
+
+        
         body {
         background-color: #f7f7f7; 
         margin: 0;
